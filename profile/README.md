@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cadre-run/.github/1996860649f69024bb272536618b1b9bc56a845b/profile/cadre-logo.svg" alt="Cadre" width="280" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadre-run/.github/main/profile/cadre-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadre-run/.github/main/profile/cadre-logo-light.svg">
+    <img alt="Cadre" src="https://raw.githubusercontent.com/cadre-run/.github/main/profile/cadre-logo-light.svg" width="280">
+  </picture>
 </p>
 
 <p align="center">
@@ -9,8 +13,8 @@
 
 <p align="center">
   <a href="https://cadre.run">Website</a> ·
-  <a href="https://cadre.run/#waitlist">Join the Waitlist</a> 
-  <a href="https://x.com/but_noah0">Follow Noah on X</a>
+  <a href="https://cadre.run/#waitlist">Join the Waitlist</a> ·
+  <a href="https://x.com/but_noah0">Follow Noah on X</a> ·
   <a href="https://x.com/TBartelt">Follow Thomas on X</a>
 </p>
 
