@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cadre-oss/.github/main/profile/cadre-logo.svg" alt="Cadre" width="280" />
+  <img src="https://raw.githubusercontent.com/cadre-run/.github/1996860649f69024bb272536618b1b9bc56a845b/profile/cadre-logo.svg" alt="Cadre" width="280" />
 </p>
 
 <p align="center">
