@@ -57,7 +57,7 @@ Cadre builds on top of Paperclip (MIT) and extends it with:
 
 We're currently in **closed beta**. Here's how to get started:
 
-1. **Join the waitlist** → [getcadre.dev](https://cadre.run)
+1. **Join the waitlist** → [cadre.run](https://cadre.run)
 2. **Follow the build** → [@but_noah0 on X](https://x.com/but_noah0) & [@TBartelt on X](https://x.com/TBartelt)
 3. **Star this org** to stay updated on public releases
 
